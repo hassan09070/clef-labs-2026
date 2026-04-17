@@ -2,8 +2,10 @@ import json
 import re
 from rouge_score import rouge_scorer
 
+FILE = "polyfiqa_expert_hero_run_scout.json"
+
 # ── Load Results ──────────────────────────────────────────
-with open("polyfiqa_expert_hero_run_scout.json", "r", encoding="utf-8") as f:
+with open(FILE, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 results = data["results"]

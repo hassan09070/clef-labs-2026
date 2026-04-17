@@ -19,9 +19,9 @@ conda activate polyfiqa_eval
 ```
 
 **ii. API Key Configuration**
-Althought the generated json result files are present in the results/ directory, if you still want to execute the generation scripts, you must provide a valid GROQ API key.
+Althought the generated json result files are present in the `results/` directory, if you still want to execute the generation scripts(which take hours to complete), you must provide a valid GROQ API key.
 
-The API keys are defined as string variables at the top of the evaluation scripts. Before running the code, you must replace the variable GROQ_API_KEY in the files in the src/ directory with an active GROQ API key. 
+The API keys are defined as string variables at the top of the evaluation scripts. Before running the code, you must replace the variable `GROQ_API_KEY` in the files in the `src/` directory with an active GROQ API key. 
 
 ```python 
 # Change the placeholder string:
@@ -36,7 +36,7 @@ GROQ_API_KEY = "gsk_123456789ABCDEF..."
 Once the execution and scoring scripts have completed, you can review the results in two ways:
 
 **i. Evaluation Metrics (Console Output):**
-The `results/score_results.py` script computes the official metrics and will print the final ROUGE-1, ROUGE-2, and ROUGE-L scores directly to your terminal. you will need to replace the json result file being evaluated in the python file at the top.
+The `results/score_results.py` script computes the official metrics and will print the final ROUGE-1, ROUGE-2, and ROUGE-L scores directly to your terminal. you will need to replace the `FILE` variable with the name of file being evaluated at the top in `results/score_results.py`
 
 To run the `score_results.py`:
 ```bash
