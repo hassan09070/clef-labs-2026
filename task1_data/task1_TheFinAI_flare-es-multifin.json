@@ -1,0 +1,3302 @@
+[
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gracias - Transporte y logística\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Aportación al Fondo de Eficiencia Energética en el año 2016\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La presión regulatoria sobre las entidades bancarias y su necesidad de desprenderse de activos no estratégicos marcarán el futuro del sector\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC contratará a 1.100 profesionales el próximo curso\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Encuentros Alumni\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Data y Analytics\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Deals. Las personas en las transacciones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Recién titulados y juniors\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El sector inmobiliario europeo afronta 2019 con optimismo a pesar de la inestabilidad política \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC y CEOE firman un convenio de colaboración para abrir la oficina técnica de apoyo a las empresas que optarán a los fondos europeos\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La banca europea deberá reforzar sus áreas de regulación para hacer frente a las pruebas de estrés\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gobierno corporativo - Gracias\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Operaciones digitales\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Ver para creer: la realidad virtual y la realidad aumentada están transformando negocios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La capitalización bursátil de las 100 mayores empresas del mundo marca una cifra récord con 21 billones de dólares\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cómo impulsar la eficiencia energética en el sector hotelero español\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La compra online será el área que más crecerá  en las redes sociales en España en los próximos años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Sanidad un sector en auge que ha alcanzado las 100 transacciones en los últimos 5 años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gobierno\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Servicios digitales de aseguramiento en clientes no auditados\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Alberto Monreal - Socio responsable - Procedimientos tributarios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Reglamento Europeo de Protección de Datos. Medidas de Seguridad Reglamento Europeo de Protección de Datos. \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Yolanda Cano, directora responsable de de Imposición Indirecta\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fusiones y adquisiciones (M&A)\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Auditoría Interna\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La prensa experimentará una caída de los ingresos  del 24%  en los próximos cinco años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: COVID-19: ¿Cómo estructurar la respuesta de tu empresa?\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: España mejora sus datos en integración laboral femenina pero sigue a la cola de la OCDE \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El recorrido de PwC en diversidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoría fiscal y legal en retail y consumo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Perspectivas del sector de Entretenimiento y Medios 2019-2023. España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gracias - Unión Bancaria, el precio de la estabilidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los consumidores españoles cada vez más abiertos a digitalizar su actividad diaria en salud automoción y finanzas personales \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Real Estate - Asesoramiento legal y fiscal - PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Aspire to lead. Foro de mujer y liderazgo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Consejos de Administración de las Empresas Cotizadas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Alumni PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Entretenimiento y Medios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El 80% de los auditores internos asegura que la crisis está multiplicado las amenazas para los negocios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Observatorio de la industria hotelera en el verano 2016\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los Private Equity deberán poner más foco en los ingresos dentro de sus planes de creación de valor para alcanzar los retornos requeridos por sus inversores\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Continuidad de operaciones mediante teletrabajo seguro. Ciberseguridad.\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cayetano Soler - Socio responsable de Turismo, Servicios y Transporte en PwC\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fusiones y adquisiciones en el sector de energía 2015\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gracias - Capital Humano\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gobierno Corporativo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Breves Energía - Enero 2016\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Consenso Económico - Tercer trimestre de 2017 - ¿Está en riesgo el futuro de las Pensiones?\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cayetano Soler Morella - Socio responsable de Transporte y Logística\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Blockchain ya está aquí. ¿Tienes claro tu próximo paso?\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Las empresas medianas afirman que la digitalización es clave\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Sólo ocho empresas españolas entre las 1.000 que más invierten en innovación en el mundo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC incorpora Josep Perich para reforzar los servicios de reestructuraciones de su oficina de Barcelona\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Retail & Consumo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Profesionales con experiencia\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Pharma\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La mayoría de los altos ejecutivos y de la ciudadanía escépticos ante los posibles acuerdos de la conferencia de Rio+20\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La tecnología Blockchain podría impulsar la economía mundial en 17 billones de dólares en 2030\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Implicaciones jurídicas para un sector donde la gestión de datos es clave\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoría fiscal y legal en el sector sanitario\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Solución: Other Assurance\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Informe anual 2015\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Servicios Fiscales y Legales - Regulación digital\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: ODS 4: el rol de las empresas para conseguir una educación de calidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Estudio de la Profesión de Auditoría Interna 2018\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cómo aprovechar el Fondo de Recuperación Europeo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La visión de los CEOs de los principales países desarrollados y la importancia de la tecnología  La visión de los CEOs de los principales países desarrollados y la importancia de la tecnología\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: España se caerá de entre las veinte mayores economías del mundo  en 2050 por el auge de los países emergentes\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC mejor consultora en Tesorería del mundo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Patronato y equipo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC elegida Mejor Asesor en Transacciones en España en 2017 según Mergermarket\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Dos de cada tres compañías industriales españolas se están quedando atrás en el proceso de digitalización\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Global Innovation 1000 - 2017\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: 5 acciones esenciales para tener en cuenta en la gestión de capital circulante y liquidez en momentos de crisis \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Inteligencia artificial - 2018 Global Consumer Insights Survey\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Reestructuraciones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Creando valor más allá de las transacciones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La desaceleración posibles rebrotes y el impacto del COVID-19 en sus empresas las grandes preocupaciones de los directores financieros \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Confianza del consumidor - 2018 Global Consumer Insights Survey\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Medidas aprobadas para hacer frente al COVID-19 - Solicitar Acceso Power BI\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Sucesión de los CEOS 2018\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fundaciones corporativas: El alma de las empresas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gestión de impuestos y cumplimiento societario\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El dinero en 2033\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Diversidad e Inclusión\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Índice de Economía Baja en Carbono 2019\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: ibex35\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El 43% de las ONG españolas ya son dirigidas por mujeres según el informe de Esade y PwC \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: ClosinGap presenta un ambicioso plan con quince acuerdos voluntarios para cerrar las brechas de género en España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Trébol: la solución integral de Real Estate de PwC\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Impacto del Brexit en los Recursos Humanos: Qué hacer y por qué es urgente prepararse\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Álvaro Torres - Socio PwC Tax & Legal Services\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC apagará las luces de su sede en Madrid para luchar, de forma simbólica, contra el cambio climático\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Otras especialidades fiscales\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Las entidades financieras temen que las FinTech les arrebaten casi 25% del negocio en los próximos cinco años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Telecomunicaciones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los expertos prevén que la economía española caiga un 116% en 2020 \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La Inteligencia Artificial y el 5G redefinirán el concepto de smartphone en los próximos tres a cinco años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gestión de riesgos\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: M&A Mercantil\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Resumen del webcast: Regulación de protección de datos y garantía de los derechos digitales en situación de crisis sanitaria\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Healthcare: ¿Una brecha digital?\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Construcción y servicios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: XXI Encuesta Mundial de CEOs\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Movilidad internacional\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Capital humano\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Publicación del paquete de propuestas de la Comisión Europea para combatir el fraude fiscal Publicación del paquete de propuestas de la Comisión Europea para combatir el fraude fiscal\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoría fiscal y legal en energía\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: COVID-19: Análisis legal y fiscal de las medidas con mayor impacto en las empresas Real Decreto Ley 8/2020\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gracias - Global Innovation 1000 - 2017\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Reglamento Europeo de Protección de Datos. El Delegado de Protección de Datos Reglamento Europeo de Protección de Datos. \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El valor de las salidas a bolsa en Europa cae un 40% en 2012 pero muestra algunos síntomas de recuperación\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Digital - Retail y Consumo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El sector hotelero afronta con optimismo la temporada de invierno\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Temas candentes del sector inmobiliario español\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La transformación del sector inmobiliario, fundamental para  la recuperación de la economía española\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cumplimiento Normativo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Turismo, transporte y logística\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los empresarios catalanes piden estabilidad política para sacar todo el potencial de la economía de Cataluña\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Únete a nosotros - perfiles Deals\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Riesgos financieros\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Transacciones - Fusiones y Adquisiciones (M&A)\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Las salidas a bolsa en Europa mantienen su fortaleza y alcanzan un valor de 14.700 millones de euros en el segundo trimestre\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Gobierno - Asesoramiento legal y fiscal - PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fiscalidad corporativa\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Manuel Márquez - socio responsable nacional de Administraciones Públicas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Informe El Mundo en 2050\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Ciudades y ciudadanos en 2.033\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC lidera el asesoramiento en transacciones según los rankings elaborados por Thomson Reuters y Mergermarket\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Retos y oportunidades del sector gasista en el contexto de la transición energética\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoría fiscal y legal en derecho inmobiliario\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cómo invertir con éxito en India\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La Unión Bancaria: ahora empieza de verdad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Encuesta Mundial de CEOs\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Digital - Ciberseguridad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Breves Energía - Mayo 2016\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los expertos apuestan por la jubilación activa para alargar la vida laboral y ayudar a la sostenibilidad de las pensiones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC y la CEHAT cierran un acuerdo para asesorar a los hoteleros en la presentación de los ERTE por causas productivas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los auditores internos reclaman su papel como asesor de confianza de las empresas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Tendencias del Mercado Inmobiliario en Europa 2017\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El mercado de los drones puede generar un negocio de más de 127.000 millones de dólares \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Transformar el capital humano\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: XIX Encuesta Mundial de CEOs - Sector Público\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Confianza del consumdior - Descarga\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Becas y prácticas\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: ¿Preparados para un Brexit sin acuerdo?\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: 86 abogados de PwC Tax & Legal reconocidos en el ranking ‘Best Lawyers’ \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: España entre los mercados de acceso de Internet más ‘comoditizados’ del mundo \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El sector hotelero prevé una temporada de verano desigual\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Termómetro del ecosistema del deporte en España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La abundancia de capital y la escasez de activos de calidad impulsarán la promoción inmobiliaria y los sectores alternativos\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Normativa europea de derechos de autor en la era digital\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Las empresas aumentan sus presupuestos en ciberseguridad para combatir el aumento de los ciberataques por la pandemia\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Encuesta mundial sobre fraude y delito económico 2018\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Procesal y arbitraje - Asesoramiento legal y fiscal – PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Seguros\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Europa reforma la normativa en materia de Protección de Datos\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Una información más inmediata, que vaya más allá de los aspectos financieros y que analice la gestión de riesgos, claves para el futuro de la auditoría\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Regresa el optimismo entre los CEOs sobre la evolución de la economía y de sus negocios en 2014\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Innovación y cultura \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Real Estate - Solución Trébol\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Innovación en la industria del metal\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Estíbaliz Pérez Arzoz - Inmobiliario\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Aportación de valor de las tecnologías en el sector sanitario\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: XX Encuesta Mundial de CEOs - Retail & Consumo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fundación Hazloposible y PwC lanzan una novedosa iniciativa de voluntariado profesional multiempresa\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: XIX Encuesta Mundial de CEOs - Automoción\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Responsabilidad social corporativa\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Digital - Estrategia digital\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Precios de transferencia\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Prueba Industria 4.0: Global Digital Operations Study 2018\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Rompiendo con el LIBOR\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El mercado de transacciones se reinventa\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Informe anual 2016\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Sostenibilidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Más de la mitad de las empresas españolas víctima de algún delito económico en los últimos dos años\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La inteligencia artificial y de cliente la digitalización la ciberseguridad y FinTech entre las diez tendencias que están transformando el sector financiero\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Conoce la fundación: misión y visión\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Servicios Legal - Fiscal\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los ingresos del sector editorial en España  caerán un 14% hasta 2019\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Novedades Laborales Nº115\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Fondos europeos: Oportunidad y reto\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Sanidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Observatorio de la Industria Hotelera Española - Invierno 2018-2019\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Webcasts 15 y 16 de abril. Medidas fiscales y legales en Latinoamérica \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoramiento legal y fiscal\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La frontera del dato\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La confianza de los CEOs mundiales en la marcha de la economía se desvanece: solo el 15% cree que mejorará\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Transparencia en el reporting fiscal: ¿Qué están publicando las compañías del IBEX 35?. Publicaciones Legal y Fiscal PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Servicios Fiscales y Legales - Derecho mercantil y de sociedades\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Publicaciones - Financial Crime\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Digital - Tecnología Telecomunicaciones Ocio y Medios\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los objetivos de Desarrollo Sostenible\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El capital riesgo impulsa el valor de las salidas a bolsa en Europa que creció un 1345% en 2013\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Impuestos indirectos - Asesoramiento legal y fiscal - PwC España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Observatorio de la Industria Hotelera Española para la temporada de invierno 2014-2015\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Hacia un modelo de 'Total Retail'\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Falta de talento y modelo de negocio claro\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Asesoría fiscal y legal en el sector público\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacta con Digital - Retail & consumo\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Pensiones\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Buenas perspectivas de los hoteleros de cara a la temporada de verano\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: PwC lidera por cuarto año consecutivo el mercado de transacciones en España en 2015\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Cómo pueden los hoteles afrontar la situación financiera ante esta crisis\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Estudio sobre el estado de la profesión de Auditoría Interna de 2014\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Sanidad\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Entertainment and Media Outlook 2017 - 2021. España\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: En 2018 la inteligencia artificial nos permitirá ser más productivos y empezar a explotar el potencial del Big Data\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: En 2030 Europa tendrá 80 millones de coches menos como consecuencia del transporte compartido y de la digitalización \nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: El salto digital de la atención sanitaria\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Mapa normativo COVID-19\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "c"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Acelerar el impacto digital y tecnológico\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Women to Watch. Talento y diversidad en los nuevos Consejos de Administración\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Auditoría y Assurance\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "e"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Las empresas no satisfacen las demandas del nuevo cliente digital debido a su bajo grado de integración tecnológica\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "f"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Territory wireframe - 23rd CEO Survey\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "a"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: La Unión Bancaria, un proceso irreversible en marcha\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Rocío Fernández, socia responsable de Mercados de Capitales\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "b"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Contacte - Transporte y logística\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  },
+  {
+    "question": "Lee el texto cuidadosamente y elige la etiqueta adecuada para el texto de las etiquetas de \"Negocios y Gestión\", \"Finanzas\", \"Gobierno y Control\", \"Industria\", \"Impuestos y Contabilidad\", \"Tecnología\".\nTexto: Los hoteleros optimistas ante la próxima temporada invernal\nRespuesta:",
+    "options": {
+      "a": "Negocios y Gestión",
+      "b": "Finanzas",
+      "c": "Gobierno y Control",
+      "d": "Industria",
+      "e": "Impuestos y Contabilidad",
+      "f": "Tecnología"
+    },
+    "gold": [
+      "d"
+    ],
+    "reason": null
+  }
+]
