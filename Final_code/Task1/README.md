@@ -218,16 +218,4 @@ export GITHUB_TOKEN="your_token_here"
 export OPENROUTER_API_KEY="your_token_here"
 ```
 
----
 
-## Results Summary
-
-| Model / System | Best Strategy | Overall Accuracy |
-|---|---|---|
-| Phi-3.5-mini (3.8B) zero-shot | baseline | ~40–45% |
-| Qwen2.5-7B zero-shot | baseline | ~48% |
-| Fin-R1 7B (prompt engineering) | few_shot | 56.7% |
-| Qwen2.5-14B (prompt engineering) | few_shot | ~58% |
-| Qwen3-32B via Groq | few_shot | ~65% |
-| Gemini 2.5 Flash | few_shot | **70.68%** |
-| Fin-R1 7B (QLoRA fine-tuned) | — | evaluated in Cell 14 |
