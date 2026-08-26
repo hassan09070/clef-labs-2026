@@ -239,6 +239,14 @@ export GROQ_API_KEY="..."        # Llama-4-Scout-17B generation (Task 2)
 export OPENROUTER_API_KEY="..."  # Gemini 2.5 Flash (Task 1)
 ```
 
+The Task 1 analysis scripts read their result directories from the environment,
+falling back to a relative path:
+
+```bash
+export FINR1_RESULTS_DIR="results/finr1_prompt_engineering"    # default
+export GEMINI_RESULTS_DIR="results/gemini25_prompt_engineering" # default
+```
+
 ---
 
 ## Key References

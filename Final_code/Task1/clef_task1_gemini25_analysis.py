@@ -52,7 +52,7 @@ warnings.filterwarnings("ignore")
 # §1  LOAD ALL RESULTS & BUILD MASTER DATAFRAME
 # ══════════════════════════════════════════════════════════════════════════════
 
-BASE = "/Users/hassan/projects/clef"
+BASE = os.environ.get("GEMINI_RESULTS_DIR", "results/gemini25_prompt_engineering")
 
 # Only the 4 full-run (1320-question) strategies are available.
 RESULT_FILES = {
@@ -754,7 +754,7 @@ print("\n" + "=" * 70)
 print("§12  GEMINI 2.5 FLASH vs FIN-R1 HEAD-TO-HEAD COMPARISON")
 print("=" * 70)
 
-FIN_R1_BASE = "/Users/hassan/Downloads/clef_task1_finr_PE"
+FIN_R1_BASE = os.environ.get("FINR1_RESULTS_DIR", "results/finr1_prompt_engineering")
 FINR1_FILES = {
     "baseline":         "finr1_baseline/finr1_baseline_results.json",
     "few_shot":         "finr1_fewshot/finr1_few_shot_results.json",

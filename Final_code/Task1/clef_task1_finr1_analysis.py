@@ -49,7 +49,7 @@ warnings.filterwarnings("ignore")
 # § 1  LOAD ALL RESULTS & BUILD MASTER DATAFRAME
 # ══════════════════════════════════════════════════════════════════════════════
 
-BASE = "/Users/hassan/Downloads/clef_task1_finr_PE"
+BASE = os.environ.get("FINR1_RESULTS_DIR", "results/finr1_prompt_engineering")
 
 RESULT_FILES = {
     "baseline":         "finr1_baseline/finr1_baseline_results.json",
