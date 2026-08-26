@@ -1,0 +1,17 @@
+# Tooling / editor local state
+.claude/
+.commandcode/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
